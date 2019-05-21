@@ -8,3 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sence/03 ganenenu.unity
     guid: 8d2df1195b0a8604a84d9e5447a6ad0b
+  - enabled: 1
+    path: Assets/Sence/02 Gameplay.unity
+    guid: cb12aedf6d2f5f14fb70c5af2dedaaa7
+  - enabled: 1
+    path: Assets/Sence/06 Character.unity
+    guid: 24a954876ea74b7408704ebbfe96de14
+  - enabled: 1
+    path: Assets/Sence/07 LevelSelect.unity
+    guid: dee677dc0df683a48acab9b31667ffbe
+  - enabled: 1
+    path: Assets/Sence/08 Quest.unity
+    guid: 376b5e1bf6233684b952ffb0df38904e
+  - enabled: 1
+    path: Assets/Sence/09 Setting.unity
+    guid: dbe07979f90b5af4d88f123b8ea9940a
+  - enabled: 1
+    path: Assets/Sence/10 Login.unity
+    guid: 5d36136f07350f344860d7e6ab408bc2
