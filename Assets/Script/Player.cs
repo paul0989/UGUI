@@ -7,7 +7,8 @@ public class Player : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        transform.Rotate(Vector3.up * Time.deltaTime * speed);//向量.上
+        transform.Rotate(Vector3.up * Time.deltaTime * speed);
+        //向量.上
     }
     public void ChangeSpeed(float NewSpeed)
     {

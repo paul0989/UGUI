@@ -8,15 +8,17 @@ public class MyToggle : MonoBehaviour {
     public GameObject isOffgameObject;
     private Toggle toggle;
     // Use this for initialization
-    void Start () {
+    void Start()
+    {
         toggle = GetComponent<Toggle>();
-        OnvalueChange(toggle.isOn);//如果toggle被點擊的話
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+        OnvalueChange(toggle.isOn);
+        //如果toggle被點擊的話
+    }
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
     public void OnvalueChange(bool isOn)
     {
         isOngameObject.SetActive(isOn);
